@@ -1,0 +1,3 @@
+QWidget { background-color: #333; }
+QPushButton { background-color: #222; color: #aaa } 
+QTextEdit {background-color: #eee; border-style: outset; border-color: #0f0; border-width: 2px; border-radius:5px;}
